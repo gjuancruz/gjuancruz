@@ -1,6 +1,6 @@
 ### Welcome!
 <h1 align="center">Hi , I'm Juan Cruz Galaz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<img src="../assets/BannerBoo_editor_-_Google_Chrome_2022-08-02_18-18-54_Trim_AdobeExpress_AdobeExpress.gif">
+![Hi, I'm Juan](https://github.com/gjuancruz/gjuancruz/blob/main/assets/BannerBoo_editor_-_Google_Chrome_2022-08-02_18-18-54_Trim_AdobeExpress_AdobeExpress.gif)
 <div>
   <h3>🛠 Tools and technologies I use:</h3>
   <li>JavaScript</li>
