@@ -1,7 +1,6 @@
 ### Hi there 👋
-<script src="//embed.bannerboo.com/bd5e177c6f839?responsive=1" async></script>
-<script src="//embed.bannerboo.com/bd5e177c6f839" async></script>
-<img src="embed.bannerboo.com/bd5e177c6f839" alt="Welcome!" width="300"/>
+<h1 align="center">Hi , I'm Ahmed Hossam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 <!--
 **gjuancruz/gjuancruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
