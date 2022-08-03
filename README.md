@@ -4,9 +4,13 @@
 
 <h1 align="center">Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-![Hi, I'm Juan](https://github.com/gjuancruz/gjuancruz/blob/main/assets/BannerBoo_editor_-_Google_Chrome_2022-08-02_18-18-54_Trim_AdobeExpress_AdobeExpress.gif)
-
-
+![Hi, I'm Juan](https://github.com/gjuancruz/gjuancruz/blob/main/assets/BannerBoo_editor_-_Google_Chrome_2022-08-02_18-18-54_Trim_AdobeExpress_AdobeExpress.gif)<br><br>
+<div align="center">
+Passionate about technology since I was a little kid, I'm looking to achieve the pleasure of dedicating 100% on it.
+I'm someone who is motivated by new challenges, to keep on learning and improving day by day. I consider my leadership, communication and positive attitude remarkable skills.
+</div>
+<hr>
+<div>
   <h3>🛠 Tools and technologies I use:</h3>
   <li>JavaScript</li>
   <li>TypeScript</li>
@@ -22,8 +26,21 @@
   <li>Sequelize</li>
   <li>Chatbots</li>
  </div>
+ <hr>
+ <h3> 👨‍💻 My projects:</h3>
+
+
+#### Moon Cinema 🌙: 
+[Link to repository](https://github.com/gjuancruz/PF)<br>
+[Link to project](https://moon-cinema-app.vercel.app/home)
+
+#### APPetite 🍓: 
+[Link to repository](https://github.com/gjuancruz/PI-Foods)<br>
+[Link to project](https://pi-foods-seven.vercel.app/)
+<hr>
 <div>
   <h3> ⁉ How to reach me: </h3>
+ I'd be glad to hear from you. Contact me!<br> 
 📞: +5493875039513 <br>
 📧: juancrgalaz@gmail.com <br>
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" height="20"> <a target="_blank" href="https://www.linkedin.com/juan-cruz-galaz-fullstack/">: LinkedIn</a> 
