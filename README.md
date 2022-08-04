@@ -45,7 +45,7 @@ I'm someone who is motivated by new challenges, to keep on learning and improvin
  I'd be glad to hear from you. Contact me!<br> 
 📞: +5493875039513 <br>
 📧: juancrgalaz@gmail.com <br>
-<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" height="20"> <a target="_blank" href="https://www.linkedin.com/juan-cruz-galaz-fullstack/">: LinkedIn</a> 
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" height="20"> <a target="_blank" href="https://www.linkedin.com/in/juan-cruz-galaz-fullstack/">: LinkedIn</a> 
  </div>
 <!--
 **gjuancruz/gjuancruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
