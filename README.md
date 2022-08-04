@@ -4,7 +4,9 @@
 
 <h1 align="center">Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-![Hi, I'm Juan](https://github.com/gjuancruz/gjuancruz/blob/main/assets/BannerBoo_editor_-_Google_Chrome_2022-08-02_18-18-54_Trim_AdobeExpress_AdobeExpress.gif)<br><br>
+<div align="center">
+<img src="https://share.creavite.co/ix5fUq0zYXNTUvPh.gif" width="580">
+</div>
 <div align="center">
 Passionate about technology since I was a little kid, I'm looking to achieve the pleasure of dedicating 100% on it.
 I'm someone who is motivated by new challenges, to keep on learning and improving day by day. I consider my leadership, communication and positive attitude remarkable skills.
