@@ -39,6 +39,10 @@ I'm someone who is motivated by new challenges, to keep on learning and improvin
 #### APPetite 🍓: 
 [Link to repository](https://github.com/gjuancruz/PI-Foods)<br>
 [Link to project](https://pi-foods-seven.vercel.app/)
+
+#### Weather App ⛅: 
+[Link to repository](https://github.com/gjuancruz/weather-app)<br>
+[Link to project](https://weather-app-gjuancruz.vercel.app/)
 <hr>
 <div>
   <h3> ⁉ How to reach me: </h3>
