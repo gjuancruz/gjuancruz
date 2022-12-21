@@ -8,7 +8,7 @@
 <img src="https://share.creavite.co/ix5fUq0zYXNTUvPh.gif" width="580">
 </div>
 <div align="center">
-Passionate about technology since I was a little kid, I'm looking to achieve the pleasure of dedicating 100% on it.
+Passionate about technology since I was a little kid, I've achieved the pleasure of dedicating 100% on it.
 I'm someone who is motivated by new challenges, to keep on learning and improving day by day. I consider my leadership, communication and positive attitude remarkable skills.
 </div>
 <hr>
